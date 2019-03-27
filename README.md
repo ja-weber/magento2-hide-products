@@ -23,9 +23,10 @@ Add rules for hiding products in **`etc/config.json`**. Example:
         {
           "productId": 1,
           "customerGroupIds": [1, 2]
-        }, {
-            "productId": 3,
-            "customerGroupIds": [4, 5]
+        },
+        {
+          "productId": 3,
+          "customerGroupIds": [4, 5]
         }
       ]
     }
