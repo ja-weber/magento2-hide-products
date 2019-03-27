@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "homepage": "http://www.weberinformatics.com/",
   "description": "Magento 2 extension for hiding products by customer groups.",
-  "keywords":[ "composer-installer", "magento"],
+  "keywords":[ "composer-installer", "magento", "magento 2", "extension", "hide product", "customer group"],
   "authors": [
     {
       "name": "Janosch Weber",
